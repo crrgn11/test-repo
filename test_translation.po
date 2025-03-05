@@ -1,0 +1,16 @@
+
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8
+"
+"Language: en
+"
+
+msgid "hello"
+msgstr "Hello"
+
+msgid "goodbye"
+msgstr "Goodbye"
+
+msgid "welcome"
+msgstr "Welcome"
