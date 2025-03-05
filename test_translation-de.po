@@ -1,0 +1,9 @@
+
+msgid "hello"
+msgstr "guten Tag"
+
+msgid "goodbye"
+msgstr "auf Wiedersehen"
+
+msgid "welcome"
+msgstr "willkommen"
