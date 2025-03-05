@@ -1,0 +1,9 @@
+
+msgid "hello"
+msgstr "здравей"
+
+msgid "goodbye"
+msgstr "довиждане"
+
+msgid "welcome"
+msgstr "добре дошли"
